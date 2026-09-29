@@ -2,6 +2,9 @@
 
 ## AI-Powered Customer Churn Prediction & Retention Analytics
 
+[![Live Demo](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://retenexa.streamlit.app/)
+[Try Retenexa Live](https://retenexa.streamlit.app/)
+
 Retenexa is an end-to-end machine learning project designed to identify customers at risk of churn, understand the factors influencing their churn predictions, segment customers based on behavior, and generate actionable retention recommendations.
 
 The project combines machine learning, customer segmentation, Explainable AI (SHAP), and a Streamlit dashboard into a single customer retention analytics system.
